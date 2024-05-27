@@ -1,0 +1,191 @@
+.navbar-brand.text-light {
+font-family: "Roboto", sans-serif;
+font-weight: 300;
+font-weight: bold;
+  
+}
+
+.navbar-nav{
+font-family: "Roboto", sans-serif;
+font-weight: 300;
+font-weight: bold;
+   
+}
+
+
+.card-title{
+
+font-family: "Roboto", sans-serif;
+font-weight: 300;
+color: #212529;
+
+}
+.precio {
+display: flex;
+justify-content: end;
+
+}
+
+.precio p{
+padding: 1rem;
+
+}
+
+.p1{
+font-family: "Roboto", sans-serif;
+font-weight: 300;
+color: #707070;
+font-size: 16px;   
+}
+
+.p2{
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-weight: bold;
+color: #28A745;
+font-size: 20px;    
+}
+
+hr{
+margin-top: 2rem;    
+}
+
+.text-muted{
+font-family: "Roboto", sans-serif;
+font-weight: 300;
+color: #707070;
+font-size: 13px; 
+}
+
+.card-text{
+font-family: "Roboto", sans-serif;
+font-weight: 300;
+color: #707070;
+font-size: 16px; 
+  
+}
+
+
+
+h2{
+color: #FFFFFF;
+text-align: center;
+margin-top: 5rem;
+padding-top: 3rem;
+
+}
+
+.formtitle{
+text-align: center;
+color: #FFFFFF;
+padding-top: 24px;
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 21px;     
+}
+
+.formatbtn{
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+  margin-bottom: 30px;
+  
+  
+  
+  }
+
+  .formatbtn:hover .custom-btn{
+    color: #23e911; 
+    }
+
+
+
+.nombre{
+font-family: "Roboto", sans-serif;
+font-weight: 300;
+color: #707070;
+font-size: 16px; 
+transition: transform 0.3s ease;
+}
+
+.nombre:hover {
+    transform: scale(1.15); 
+    z-index: 1; 
+  }
+
+.custom-btn{
+background-color: #F8F9FA;
+color: #212529;
+border: #DDDDDD 1px solid;
+width: 112.71px;
+height: 40px;
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 16px;     
+color: #212529;
+
+}
+
+
+  
+
+.footerclass{
+display: flex;
+justify-content: center;
+
+}
+
+
+.footerclass img{
+width:82px ;
+height:24px ;
+margin-top: 40px;
+}
+.footertext{
+text-align: center;
+margin-top: 30px;
+font-family: "Roboto", sans-serif;
+font-weight: 300;
+color: #707070;
+font-size: 16px; 
+}
+
+.hr6{
+margin-top: 70px;    
+}
+
+.card {
+transition: transform 0.3s ease, color 0.3s ease;
+}
+  
+.card:hover {
+transform: scale(1.15); 
+z-index: 1; 
+}
+  
+.card:hover .card-title{
+color: #15ad40; 
+}
+
+.logo {
+  transition: transform 0.6s ease; /* Define la transición */
+}
+
+.logo:hover {
+  transform: rotate(360deg); /* Aplica la rotación */
+}
+
+
+.navbar-nav{
+  transition: transform 0.3s ease, color 0.3s ease;
+
+}
+
+
+.nav-link:hover{
+  transform: scale(1.15); 
+  z-index: 1; 
+  color: #ebf310;  
+
+}
+
